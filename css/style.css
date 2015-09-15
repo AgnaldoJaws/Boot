@@ -151,4 +151,10 @@ body>#navegacao>.container>#navegacao__content .navbar .navbar-collapse>ul.navba
 	{
 	background: #340464
 }
+
+#slider .item img {
+	display: block;
+	width: 100%;
+	height: auto
+}
 /*# sourceMappingURL=style.css.map */
